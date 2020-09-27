@@ -1,5 +1,5 @@
 {
-  "name": "places",
+  "name": "tweets_client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
